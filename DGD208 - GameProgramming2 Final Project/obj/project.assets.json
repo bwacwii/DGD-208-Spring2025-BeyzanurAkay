@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bakay\\source\\repos\\DGD208 - GameProgramming2 Final Project\\DGD208 - GameProgramming2 Final Project\\DGD208 - GameProgramming2 Final Project.csproj",
+      "projectUniqueName": "C:\\Users\\bakay\\OneDrive\\Belgeler\\GitHub\\DGD-208-Spring2025-BeyzanurAkay\\DGD208 - GameProgramming2 Final Project\\DGD208 - GameProgramming2 Final Project.csproj",
       "projectName": "DGD208 - GameProgramming2 Final Project",
-      "projectPath": "C:\\Users\\bakay\\source\\repos\\DGD208 - GameProgramming2 Final Project\\DGD208 - GameProgramming2 Final Project\\DGD208 - GameProgramming2 Final Project.csproj",
+      "projectPath": "C:\\Users\\bakay\\OneDrive\\Belgeler\\GitHub\\DGD-208-Spring2025-BeyzanurAkay\\DGD208 - GameProgramming2 Final Project\\DGD208 - GameProgramming2 Final Project.csproj",
       "packagesPath": "C:\\Users\\bakay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bakay\\source\\repos\\DGD208 - GameProgramming2 Final Project\\DGD208 - GameProgramming2 Final Project\\obj\\",
+      "outputPath": "C:\\Users\\bakay\\OneDrive\\Belgeler\\GitHub\\DGD-208-Spring2025-BeyzanurAkay\\DGD208 - GameProgramming2 Final Project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
