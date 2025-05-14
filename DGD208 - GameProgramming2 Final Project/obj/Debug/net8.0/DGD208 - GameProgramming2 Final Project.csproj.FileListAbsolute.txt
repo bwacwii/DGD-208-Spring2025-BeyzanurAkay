@@ -1,0 +1,5 @@
+C:\Users\bakay\OneDrive\Belgeler\GitHub\DGD-208-Spring2025-BeyzanurAkay\DGD208 - GameProgramming2 Final Project\obj\Debug\net8.0\DGD208 - GameProgramming2 Final Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bakay\OneDrive\Belgeler\GitHub\DGD-208-Spring2025-BeyzanurAkay\DGD208 - GameProgramming2 Final Project\obj\Debug\net8.0\DGD208 - GameProgramming2 Final Project.AssemblyInfoInputs.cache
+C:\Users\bakay\OneDrive\Belgeler\GitHub\DGD-208-Spring2025-BeyzanurAkay\DGD208 - GameProgramming2 Final Project\obj\Debug\net8.0\DGD208 - GameProgramming2 Final Project.AssemblyInfo.cs
+C:\Users\bakay\OneDrive\Belgeler\GitHub\DGD-208-Spring2025-BeyzanurAkay\DGD208 - GameProgramming2 Final Project\obj\Debug\net8.0\DGD208 - GameProgramming2 Final Project.csproj.CoreCompileInputs.cache
+C:\Users\bakay\OneDrive\Belgeler\GitHub\DGD-208-Spring2025-BeyzanurAkay\DGD208 - GameProgramming2 Final Project\obj\Debug\net8.0\DGD208 - GameProgramming2 Final Project.sourcelink.json

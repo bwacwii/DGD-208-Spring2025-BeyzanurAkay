@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace DGD208___GameProgramming2_Final_Project
 {
-    public enum PetStats
+    internal class program
     {
-        Hunger,
-        Sleep,
-        Fun
     }
 }
