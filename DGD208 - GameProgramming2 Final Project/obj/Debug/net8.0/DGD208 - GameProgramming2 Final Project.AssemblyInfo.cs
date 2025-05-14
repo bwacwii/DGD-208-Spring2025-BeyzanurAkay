@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DGD208 - GameProgramming2 Final Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27041aca4eb9aa244decc185c029f274f62d1f75")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3b4355b73f47057b775dbbd7e6d829620702196")]
 [assembly: System.Reflection.AssemblyProductAttribute("DGD208 - GameProgramming2 Final Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DGD208 - GameProgramming2 Final Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

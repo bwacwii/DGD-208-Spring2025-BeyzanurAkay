@@ -1,14 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
-
-    public enum PetTypes
-    {
-        Otter,
-        OrangeCat,
-        Capybara,
-        AloneNugget
-    }
+public enum PetType
+{
+    Otter,
+    OrangeCat,
+    Capybara,
+    AloneNugget
+}

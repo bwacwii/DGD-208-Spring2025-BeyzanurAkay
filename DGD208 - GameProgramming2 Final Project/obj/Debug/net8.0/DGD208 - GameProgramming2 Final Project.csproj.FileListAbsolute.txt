@@ -3,3 +3,13 @@ C:\Users\bakay\OneDrive\Belgeler\GitHub\DGD-208-Spring2025-BeyzanurAkay\DGD208 -
 C:\Users\bakay\OneDrive\Belgeler\GitHub\DGD-208-Spring2025-BeyzanurAkay\DGD208 - GameProgramming2 Final Project\obj\Debug\net8.0\DGD208 - GameProgramming2 Final Project.AssemblyInfo.cs
 C:\Users\bakay\OneDrive\Belgeler\GitHub\DGD-208-Spring2025-BeyzanurAkay\DGD208 - GameProgramming2 Final Project\obj\Debug\net8.0\DGD208 - GameProgramming2 Final Project.csproj.CoreCompileInputs.cache
 C:\Users\bakay\OneDrive\Belgeler\GitHub\DGD-208-Spring2025-BeyzanurAkay\DGD208 - GameProgramming2 Final Project\obj\Debug\net8.0\DGD208 - GameProgramming2 Final Project.sourcelink.json
+C:\Users\bakay\OneDrive\Belgeler\GitHub\DGD-208-Spring2025-BeyzanurAkay\DGD208 - GameProgramming2 Final Project\bin\Debug\net8.0\DGD208 - GameProgramming2 Final Project.exe
+C:\Users\bakay\OneDrive\Belgeler\GitHub\DGD-208-Spring2025-BeyzanurAkay\DGD208 - GameProgramming2 Final Project\bin\Debug\net8.0\DGD208 - GameProgramming2 Final Project.deps.json
+C:\Users\bakay\OneDrive\Belgeler\GitHub\DGD-208-Spring2025-BeyzanurAkay\DGD208 - GameProgramming2 Final Project\bin\Debug\net8.0\DGD208 - GameProgramming2 Final Project.runtimeconfig.json
+C:\Users\bakay\OneDrive\Belgeler\GitHub\DGD-208-Spring2025-BeyzanurAkay\DGD208 - GameProgramming2 Final Project\bin\Debug\net8.0\DGD208 - GameProgramming2 Final Project.dll
+C:\Users\bakay\OneDrive\Belgeler\GitHub\DGD-208-Spring2025-BeyzanurAkay\DGD208 - GameProgramming2 Final Project\bin\Debug\net8.0\DGD208 - GameProgramming2 Final Project.pdb
+C:\Users\bakay\OneDrive\Belgeler\GitHub\DGD-208-Spring2025-BeyzanurAkay\DGD208 - GameProgramming2 Final Project\obj\Debug\net8.0\DGD208 - GameProgramming2 Final Project.dll
+C:\Users\bakay\OneDrive\Belgeler\GitHub\DGD-208-Spring2025-BeyzanurAkay\DGD208 - GameProgramming2 Final Project\obj\Debug\net8.0\refint\DGD208 - GameProgramming2 Final Project.dll
+C:\Users\bakay\OneDrive\Belgeler\GitHub\DGD-208-Spring2025-BeyzanurAkay\DGD208 - GameProgramming2 Final Project\obj\Debug\net8.0\DGD208 - GameProgramming2 Final Project.pdb
+C:\Users\bakay\OneDrive\Belgeler\GitHub\DGD-208-Spring2025-BeyzanurAkay\DGD208 - GameProgramming2 Final Project\obj\Debug\net8.0\DGD208 - GameProgramming2 Final Project.genruntimeconfig.cache
+C:\Users\bakay\OneDrive\Belgeler\GitHub\DGD-208-Spring2025-BeyzanurAkay\DGD208 - GameProgramming2 Final Project\obj\Debug\net8.0\ref\DGD208 - GameProgramming2 Final Project.dll
