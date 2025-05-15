@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-public enum PetType
+public enum petType
 {
     Otter,
     OrangeCat,

@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\bakay\\OneDrive\\Belgeler\\GitHub\\DGD-208-Spring2025-BeyzanurAkay\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7F86C74-4237-4C86-BED2-E30375F39394}|DGD208 - GameProgramming2 Final Project\\DGD208 - GameProgramming2 Final Project.csproj|c:\\users\\bakay\\onedrive\\belgeler\\github\\dgd-208-spring2025-beyzanurakay\\dgd208 - gameprogramming2 final project\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7F86C74-4237-4C86-BED2-E30375F39394}|DGD208 - GameProgramming2 Final Project\\DGD208 - GameProgramming2 Final Project.csproj|solutionrelative:dgd208 - gameprogramming2 final project\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7F86C74-4237-4C86-BED2-E30375F39394}|DGD208 - GameProgramming2 Final Project\\DGD208 - GameProgramming2 Final Project.csproj|c:\\users\\bakay\\onedrive\\belgeler\\github\\dgd-208-spring2025-beyzanurakay\\dgd208 - gameprogramming2 final project\\petmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F86C74-4237-4C86-BED2-E30375F39394}|DGD208 - GameProgramming2 Final Project\\DGD208 - GameProgramming2 Final Project.csproj|solutionrelative:dgd208 - gameprogramming2 final project\\petmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F86C74-4237-4C86-BED2-E30375F39394}|DGD208 - GameProgramming2 Final Project\\DGD208 - GameProgramming2 Final Project.csproj|c:\\users\\bakay\\onedrive\\belgeler\\github\\dgd-208-spring2025-beyzanurakay\\dgd208 - gameprogramming2 final project\\petmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F86C74-4237-4C86-BED2-E30375F39394}|DGD208 - GameProgramming2 Final Project\\DGD208 - GameProgramming2 Final Project.csproj|solutionrelative:dgd208 - gameprogramming2 final project\\petmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F86C74-4237-4C86-BED2-E30375F39394}|DGD208 - GameProgramming2 Final Project\\DGD208 - GameProgramming2 Final Project.csproj|c:\\users\\bakay\\onedrive\\belgeler\\github\\dgd-208-spring2025-beyzanurakay\\dgd208 - gameprogramming2 final project\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F86C74-4237-4C86-BED2-E30375F39394}|DGD208 - GameProgramming2 Final Project\\DGD208 - GameProgramming2 Final Project.csproj|solutionrelative:dgd208 - gameprogramming2 final project\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F86C74-4237-4C86-BED2-E30375F39394}|DGD208 - GameProgramming2 Final Project\\DGD208 - GameProgramming2 Final Project.csproj|c:\\users\\bakay\\onedrive\\belgeler\\github\\dgd-208-spring2025-beyzanurakay\\dgd208 - gameprogramming2 final project\\itemtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F86C74-4237-4C86-BED2-E30375F39394}|DGD208 - GameProgramming2 Final Project\\DGD208 - GameProgramming2 Final Project.csproj|solutionrelative:dgd208 - gameprogramming2 final project\\itemtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7F86C74-4237-4C86-BED2-E30375F39394}|DGD208 - GameProgramming2 Final Project\\DGD208 - GameProgramming2 Final Project.csproj|c:\\users\\bakay\\onedrive\\belgeler\\github\\dgd-208-spring2025-beyzanurakay\\dgd208 - gameprogramming2 final project\\itemdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,20 +27,16 @@
       "RelativeMoniker": "D:0:0:{E7F86C74-4237-4C86-BED2-E30375F39394}|DGD208 - GameProgramming2 Final Project\\DGD208 - GameProgramming2 Final Project.csproj|solutionrelative:dgd208 - gameprogramming2 final project\\pettypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7F86C74-4237-4C86-BED2-E30375F39394}|DGD208 - GameProgramming2 Final Project\\DGD208 - GameProgramming2 Final Project.csproj|c:\\users\\bakay\\onedrive\\belgeler\\github\\dgd-208-spring2025-beyzanurakay\\dgd208 - gameprogramming2 final project\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7F86C74-4237-4C86-BED2-E30375F39394}|DGD208 - GameProgramming2 Final Project\\DGD208 - GameProgramming2 Final Project.csproj|solutionrelative:dgd208 - gameprogramming2 final project\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7F86C74-4237-4C86-BED2-E30375F39394}|DGD208 - GameProgramming2 Final Project\\DGD208 - GameProgramming2 Final Project.csproj|c:\\users\\bakay\\onedrive\\belgeler\\github\\dgd-208-spring2025-beyzanurakay\\dgd208 - gameprogramming2 final project\\itemtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7F86C74-4237-4C86-BED2-E30375F39394}|DGD208 - GameProgramming2 Final Project\\DGD208 - GameProgramming2 Final Project.csproj|solutionrelative:dgd208 - gameprogramming2 final project\\itemtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E7F86C74-4237-4C86-BED2-E30375F39394}|DGD208 - GameProgramming2 Final Project\\DGD208 - GameProgramming2 Final Project.csproj|c:\\users\\bakay\\onedrive\\belgeler\\github\\dgd-208-spring2025-beyzanurakay\\dgd208 - gameprogramming2 final project\\petstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7F86C74-4237-4C86-BED2-E30375F39394}|DGD208 - GameProgramming2 Final Project\\DGD208 - GameProgramming2 Final Project.csproj|solutionrelative:dgd208 - gameprogramming2 final project\\petstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7F86C74-4237-4C86-BED2-E30375F39394}|DGD208 - GameProgramming2 Final Project\\DGD208 - GameProgramming2 Final Project.csproj|c:\\users\\bakay\\onedrive\\belgeler\\github\\dgd-208-spring2025-beyzanurakay\\dgd208 - gameprogramming2 final project\\petmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7F86C74-4237-4C86-BED2-E30375F39394}|DGD208 - GameProgramming2 Final Project\\DGD208 - GameProgramming2 Final Project.csproj|solutionrelative:dgd208 - gameprogramming2 final project\\petmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7F86C74-4237-4C86-BED2-E30375F39394}|DGD208 - GameProgramming2 Final Project\\DGD208 - GameProgramming2 Final Project.csproj|c:\\users\\bakay\\onedrive\\belgeler\\github\\dgd-208-spring2025-beyzanurakay\\dgd208 - gameprogramming2 final project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F86C74-4237-4C86-BED2-E30375F39394}|DGD208 - GameProgramming2 Final Project\\DGD208 - GameProgramming2 Final Project.csproj|solutionrelative:dgd208 - gameprogramming2 final project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F86C74-4237-4C86-BED2-E30375F39394}|DGD208 - GameProgramming2 Final Project\\DGD208 - GameProgramming2 Final Project.csproj|c:\\users\\bakay\\onedrive\\belgeler\\github\\dgd-208-spring2025-beyzanurakay\\dgd208 - gameprogramming2 final project\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F86C74-4237-4C86-BED2-E30375F39394}|DGD208 - GameProgramming2 Final Project\\DGD208 - GameProgramming2 Final Project.csproj|solutionrelative:dgd208 - gameprogramming2 final project\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,20 +46,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "PetStats.cs",
               "DocumentMoniker": "C:\\Users\\bakay\\OneDrive\\Belgeler\\GitHub\\DGD-208-Spring2025-BeyzanurAkay\\DGD208 - GameProgramming2 Final Project\\PetStats.cs",
               "RelativeDocumentMoniker": "DGD208 - GameProgramming2 Final Project\\PetStats.cs",
               "ToolTip": "C:\\Users\\bakay\\OneDrive\\Belgeler\\GitHub\\DGD-208-Spring2025-BeyzanurAkay\\DGD208 - GameProgramming2 Final Project\\PetStats.cs",
               "RelativeToolTip": "DGD208 - GameProgramming2 Final Project\\PetStats.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAFYAAAAAAAAAAIAwwDAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T10:40:25.498Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -59,68 +68,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "petMenu.cs",
+              "DocumentMoniker": "C:\\Users\\bakay\\OneDrive\\Belgeler\\GitHub\\DGD-208-Spring2025-BeyzanurAkay\\DGD208 - GameProgramming2 Final Project\\petMenu.cs",
+              "RelativeDocumentMoniker": "DGD208 - GameProgramming2 Final Project\\petMenu.cs",
+              "ToolTip": "C:\\Users\\bakay\\OneDrive\\Belgeler\\GitHub\\DGD-208-Spring2025-BeyzanurAkay\\DGD208 - GameProgramming2 Final Project\\petMenu.cs",
+              "RelativeToolTip": "DGD208 - GameProgramming2 Final Project\\petMenu.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwB4AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:52:37.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "program.cs",
+              "DocumentMoniker": "C:\\Users\\bakay\\OneDrive\\Belgeler\\GitHub\\DGD-208-Spring2025-BeyzanurAkay\\DGD208 - GameProgramming2 Final Project\\program.cs",
+              "RelativeDocumentMoniker": "DGD208 - GameProgramming2 Final Project\\program.cs",
+              "ToolTip": "C:\\Users\\bakay\\OneDrive\\Belgeler\\GitHub\\DGD-208-Spring2025-BeyzanurAkay\\DGD208 - GameProgramming2 Final Project\\program.cs",
+              "RelativeToolTip": "DGD208 - GameProgramming2 Final Project\\program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:50:51.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "petManager.cs",
               "DocumentMoniker": "C:\\Users\\bakay\\OneDrive\\Belgeler\\GitHub\\DGD-208-Spring2025-BeyzanurAkay\\DGD208 - GameProgramming2 Final Project\\petManager.cs",
               "RelativeDocumentMoniker": "DGD208 - GameProgramming2 Final Project\\petManager.cs",
               "ToolTip": "C:\\Users\\bakay\\OneDrive\\Belgeler\\GitHub\\DGD-208-Spring2025-BeyzanurAkay\\DGD208 - GameProgramming2 Final Project\\petManager.cs",
               "RelativeToolTip": "DGD208 - GameProgramming2 Final Project\\petManager.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAmwDAAAAABAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAYAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T21:54:07.441Z"
+              "WhenOpened": "2025-05-14T21:54:07.441Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "PetTypes.cs",
               "DocumentMoniker": "C:\\Users\\bakay\\OneDrive\\Belgeler\\GitHub\\DGD-208-Spring2025-BeyzanurAkay\\DGD208 - GameProgramming2 Final Project\\PetTypes.cs",
               "RelativeDocumentMoniker": "DGD208 - GameProgramming2 Final Project\\PetTypes.cs",
               "ToolTip": "C:\\Users\\bakay\\OneDrive\\Belgeler\\GitHub\\DGD-208-Spring2025-BeyzanurAkay\\DGD208 - GameProgramming2 Final Project\\PetTypes.cs",
               "RelativeToolTip": "DGD208 - GameProgramming2 Final Project\\PetTypes.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T10:40:15.675Z"
+              "WhenOpened": "2025-05-11T10:40:15.675Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\bakay\\OneDrive\\Belgeler\\GitHub\\DGD-208-Spring2025-BeyzanurAkay\\DGD208 - GameProgramming2 Final Project\\Menu.cs",
-              "RelativeDocumentMoniker": "DGD208 - GameProgramming2 Final Project\\Menu.cs",
-              "ToolTip": "C:\\Users\\bakay\\OneDrive\\Belgeler\\GitHub\\DGD-208-Spring2025-BeyzanurAkay\\DGD208 - GameProgramming2 Final Project\\Menu.cs",
-              "RelativeToolTip": "DGD208 - GameProgramming2 Final Project\\Menu.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAmwEoAAAABAAAA",
+              "DocumentIndex": 2,
+              "Title": "mainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\bakay\\OneDrive\\Belgeler\\GitHub\\DGD-208-Spring2025-BeyzanurAkay\\DGD208 - GameProgramming2 Final Project\\mainMenu.cs",
+              "RelativeDocumentMoniker": "DGD208 - GameProgramming2 Final Project\\mainMenu.cs",
+              "ToolTip": "C:\\Users\\bakay\\OneDrive\\Belgeler\\GitHub\\DGD-208-Spring2025-BeyzanurAkay\\DGD208 - GameProgramming2 Final Project\\mainMenu.cs",
+              "RelativeToolTip": "DGD208 - GameProgramming2 Final Project\\mainMenu.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowBEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T10:40:00.555Z"
+              "WhenOpened": "2025-05-11T10:40:00.555Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\bakay\\OneDrive\\Belgeler\\GitHub\\DGD-208-Spring2025-BeyzanurAkay\\DGD208 - GameProgramming2 Final Project\\Game.cs",
               "RelativeDocumentMoniker": "DGD208 - GameProgramming2 Final Project\\Game.cs",
               "ToolTip": "C:\\Users\\bakay\\OneDrive\\Belgeler\\GitHub\\DGD-208-Spring2025-BeyzanurAkay\\DGD208 - GameProgramming2 Final Project\\Game.cs",
               "RelativeToolTip": "DGD208 - GameProgramming2 Final Project\\Game.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAawEoAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T10:38:30.413Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ItemDatabase.cs",
               "DocumentMoniker": "C:\\Users\\bakay\\OneDrive\\Belgeler\\GitHub\\DGD-208-Spring2025-BeyzanurAkay\\DGD208 - GameProgramming2 Final Project\\ItemDatabase.cs",
               "RelativeDocumentMoniker": "DGD208 - GameProgramming2 Final Project\\ItemDatabase.cs",
               "ToolTip": "C:\\Users\\bakay\\OneDrive\\Belgeler\\GitHub\\DGD-208-Spring2025-BeyzanurAkay\\DGD208 - GameProgramming2 Final Project\\ItemDatabase.cs",
               "RelativeToolTip": "DGD208 - GameProgramming2 Final Project\\ItemDatabase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T10:39:35.705Z"
+              "WhenOpened": "2025-05-11T10:39:35.705Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ItemTypes.cs",
               "DocumentMoniker": "C:\\Users\\bakay\\OneDrive\\Belgeler\\GitHub\\DGD-208-Spring2025-BeyzanurAkay\\DGD208 - GameProgramming2 Final Project\\ItemTypes.cs",
               "RelativeDocumentMoniker": "DGD208 - GameProgramming2 Final Project\\ItemTypes.cs",
@@ -128,7 +167,8 @@
               "RelativeToolTip": "DGD208 - GameProgramming2 Final Project\\ItemTypes.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T10:39:09.507Z"
+              "WhenOpened": "2025-05-11T10:39:09.507Z",
+              "EditorCaption": ""
             }
           ]
         }

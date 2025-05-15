@@ -25,7 +25,7 @@ public class Menu<T>
     /// Displays the menu and gets the user's selection.
     /// </summary>
     /// <returns>The selected item, or default(T) if the user chooses to go back</returns>
-    public T ShowAndGetSelection()
+    public T showAndGetSelection()
     {
         if (_items.Count == 0)
         {

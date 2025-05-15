@@ -4,9 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DGD208___GameProgramming2_Final_Project
+public class Program
 {
-    internal class itemDatabase
+    public static async Task Main()
     {
+        Game game = new Game();
+        await game.GameLoop();
     }
 }
