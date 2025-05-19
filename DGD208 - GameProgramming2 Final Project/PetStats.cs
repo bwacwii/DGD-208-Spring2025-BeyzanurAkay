@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 
 
-public enum PetStat
+public enum petStat
 {
     Hunger,
     Sleep,
@@ -14,10 +14,10 @@ public enum PetStat
 
 public class PetEventArgs : EventArgs
 {
-    public PetStat Stat { get; }
+    public petStat Stat { get; }
     public int Value { get; }
 
-    public PetEventArgs(PetStat stat, int value)
+    public PetEventArgs(petStat stat, int value)
     {
         Stat = stat;
         Value = value;
@@ -28,7 +28,7 @@ public class Pet
 {
     public string Name { get; }
     public petType Type { get; }
-    private Dictionary<PetStat, int> stats;
+    private Dictionary<petStat, int> stats;
     private CancellationTokenSource statDecayTokenSource;
 
     public event EventHandler<PetEventArgs> statChanged;
@@ -38,19 +38,19 @@ public class Pet
     {
         Name = name;
         Type = type;
-        stats = new Dictionary<PetStat, int>
+        stats = new Dictionary<petStat, int>
         {
-            { PetStat.Hunger, 50 },
-            { PetStat.Sleep, 50 },
-            { PetStat.Fun,   50 }
+            { petStat.Hunger, 50 },
+            { petStat.Sleep, 50 },
+            { petStat.Fun,   50 }
         };
 
         startStatDecay();
     }
 
-    public int GetStat(PetStat stat) => stats[stat];
+    public int GetStat(petStat stat) => stats[stat];
 
-    public void adjustStat(PetStat stat, int amount, bool silent = false)
+    public void adjustStat(petStat stat, int amount, bool silent = false)
     {
         if (!stats.ContainsKey(stat)) return;
 
@@ -65,12 +65,12 @@ public class Pet
         }
     }
 
-    protected virtual void onStatChanged(PetStat stat, int newValue)
+    protected virtual void onStatChanged(petStat stat, int newValue)
     {
         statChanged?.Invoke(this, new PetEventArgs(stat, newValue));
     }
 
-    protected virtual void onPetDied(PetStat stat)
+    protected virtual void onPetDied(petStat stat)
     {
         petDied?.Invoke(this, new PetEventArgs(stat, 0));
         statDecayTokenSource?.Cancel();
@@ -91,7 +91,7 @@ public class Pet
             {
                 await Task.Delay(1000);
 
-                foreach (PetStat stat in Enum.GetValues(typeof(PetStat)))
+                foreach (petStat stat in Enum.GetValues(typeof(petStat)))
                 {
                     adjustStat(stat, -1, true);
                 }
@@ -103,7 +103,7 @@ public class Pet
         }
     }
 
-    public async Task useItemAsync(PetStat targetStat, int effectAmount)
+    public async Task useItemAsync(petStat targetStat, int effectAmount)
     {
         Console.WriteLine($"\n Using item on {targetStat}...");
         await Task.Delay(500);
@@ -118,5 +118,15 @@ public class Pet
         {
             Console.WriteLine($" - {pair.Key}: {pair.Value}");
         }
+    }
+
+    internal void adjustStat(petStat hunger, int v)
+    {
+        throw new NotImplementedException();
+    }
+
+    internal object getStat(petStat stat)
+    {
+        throw new NotImplementedException();
     }
 }

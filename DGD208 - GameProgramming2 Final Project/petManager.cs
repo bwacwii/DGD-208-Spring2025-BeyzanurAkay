@@ -1,5 +1,4 @@
-﻿using DGD208___GameProgramming2_Final_Project;
-
+﻿
 public static class PetManager
 {
     public static Pet adoptPet()
@@ -33,7 +32,7 @@ public static class PetManager
 
             Console.WriteLine($"You adopted a {selectedPet} named {name}! He/she is saying thank you to you with wet eyes.");
             Console.WriteLine("Initial Stats:");
-            foreach (PetStat stat in Enum.GetValues(typeof(PetStat)))
+            foreach (petStat stat in Enum.GetValues(typeof(petStat)))
             {
                 Console.WriteLine($"{stat}: {pet.GetStat(stat)}");
             }

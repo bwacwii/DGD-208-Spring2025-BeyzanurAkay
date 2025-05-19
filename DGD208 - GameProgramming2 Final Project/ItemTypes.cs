@@ -1,5 +1,6 @@
-﻿public enum itemType
+﻿public enum ItemType
 {
     Food,
-    Toy
+    Toy,
+    SleepAid
 }
