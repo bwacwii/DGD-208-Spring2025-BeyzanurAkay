@@ -24,7 +24,7 @@ public class Game
     private void Initialize()
     {
         Console.Clear();
-        Console.WriteLine("Welcome to the Pet Adoption Game!");
+        Console.WriteLine("Welcome to the Pet Adoption Game! I hope you brought your money with you (;");
         Console.WriteLine();
     }
 
@@ -33,7 +33,7 @@ public class Game
         Console.WriteLine("Please choose an option:");
         Console.WriteLine("1. Adopt a Pet");
         Console.WriteLine("2. Check Your Pets");
-        Console.WriteLine("3. Play with Your Pets"); // 🔼 Menüde yukarı alındı
+        Console.WriteLine("3. Play with Your Pets"); 
         Console.WriteLine("4. Credits");
         Console.WriteLine("5. Exit");
         Console.Write("Enter your choice: ");
@@ -64,7 +64,7 @@ public class Game
             case "2":
                 if (playerPets.Count == 0)
                 {
-                    Console.WriteLine("😢 You don't have any pets yet.");
+                    Console.WriteLine("You don't have any pets yet. Do you want to adopt one?");
                 }
                 else
                 {
@@ -79,7 +79,7 @@ public class Game
             case "3":
                 if (playerPets.Count == 0)
                 {
-                    Console.WriteLine("😢 You don't have any pets to play with.");
+                    Console.WriteLine("You don't have any pets to play with. What a sad)):");
                 }
                 else
                 {
@@ -89,7 +89,7 @@ public class Game
 
             case "4":
                 Console.Clear();
-                Console.WriteLine("👩‍🎓 Beyzanur Akay - 225040069 feat AI!");
+                Console.WriteLine("👩‍🎓 Beyzanur Akay - 225040069 feat AI, Dear ChatGPT!");
                 break;
 
             case "5":
@@ -108,7 +108,7 @@ public class Game
 
     private async Task ShowPetMenu()
     {
-        Console.WriteLine("\nWhich pet would you like to interact with?");
+        Console.WriteLine("\nWhich cutie mutie pie pet would you like to interact with?");
         for (int i = 0; i < playerPets.Count; i++)
         {
             Console.WriteLine($"{i + 1}. {playerPets[i].Name} the {playerPets[i].Type}");
@@ -130,9 +130,10 @@ public class Game
     {
         Console.WriteLine($"\n{pet.Name}'s Menu:");
         Console.WriteLine("1. Check Stats");
-        Console.WriteLine("2. Play");
+        Console.WriteLine("2. Play with Toy");
         Console.WriteLine("3. Feed");
-        Console.WriteLine("4. Abandon");
+        Console.WriteLine("4. Sleep");
+        Console.WriteLine("5. Abandon");
         Console.Write("Enter your choice: ");
 
         string choice = Console.ReadLine();
@@ -143,21 +144,24 @@ public class Game
                 pet.printStats();
                 break;
             case "2":
-                pet.adjustStat(petStat.Fun, 10);
+                await ItemManager.ShowToyMenu(pet);
                 break;
             case "3":
-                pet.adjustStat(petStat.Hunger, 10);
+                await ItemManager.ShowFoodMenu(pet);
                 break;
             case "4":
-                Console.Write("Are you sure you want to abandon your pet? (yes/no): ");
+                await ItemManager.ShowSleepMenu(pet);
+                break;
+            case "5":
+                Console.Write("Are you sure you want to abandon your pet like skipping stones over the sea? (yes/no): ");
                 if (Console.ReadLine()?.ToLower() == "yes")
                 {
-                    Console.WriteLine($"😿 You abandoned {pet.Name}. Hope you feel bad!");
+                    Console.WriteLine($" You abandoned {pet.Name}. Hope you feel bad! Please do not adopt any pet again!");
                     playerPets.Remove(pet);
                 }
                 else
                 {
-                    Console.WriteLine("You chose to keep your pet. Good decision!");
+                    Console.WriteLine("You chose to keep your pet. Good decision! Aferin.");
                 }
                 break;
             default:
@@ -167,4 +171,6 @@ public class Game
 
         await Task.Delay(500);
     }
+
+
 }

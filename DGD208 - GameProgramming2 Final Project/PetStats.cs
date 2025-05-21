@@ -76,7 +76,7 @@ public class Pet
         statDecayTokenSource?.Cancel();
 
         Console.ForegroundColor = ConsoleColor.Red;
-        Console.WriteLine($"\n💀 Your pet {Name} has died because their {stat} dropped to zero! You don't seem responsible enough to adopt an animal. Please don't adopt again. ");
+        Console.WriteLine($"\n Your pet {Name} has died because their {stat} dropped to zero! You don't seem responsible enough to adopt an animal. Please don't adopt again. ");
         Console.ResetColor();
     }
 
@@ -120,11 +120,7 @@ public class Pet
         }
     }
 
-    internal void adjustStat(petStat hunger, int v)
-    {
-        throw new NotImplementedException();
-    }
-
+   
     internal object getStat(petStat stat)
     {
         throw new NotImplementedException();

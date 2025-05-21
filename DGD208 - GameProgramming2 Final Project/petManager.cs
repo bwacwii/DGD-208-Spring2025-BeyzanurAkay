@@ -10,7 +10,7 @@ public static class PetManager
             Console.WriteLine($"{index}. {pet}");
             index++;
         }
-        Console.Write("Enter the number of the pet you want to adopt (I hope you don't want to adopt an orange cat.) :");
+        Console.Write("Enter the number of the pet you want to adopt (I hope you don't want to adopt an orange cat...) :");
         string input = Console.ReadLine();
 
         if (int.TryParse(input, out int selectedIndex) && selectedIndex >= 1 && selectedIndex <= Enum.GetValues(typeof(petType)).Length)
