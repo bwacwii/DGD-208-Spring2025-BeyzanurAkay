@@ -78,6 +78,8 @@ public class Pet
         Console.ForegroundColor = ConsoleColor.Red;
         Console.WriteLine($"\n Your pet {Name} has died because their {stat} dropped to zero! You don't seem responsible enough to adopt an animal. Please don't adopt again. ");
         Console.ResetColor();
+        Environment.Exit(0); 
+
     }
 
     private async void startStatDecay()
@@ -89,7 +91,7 @@ public class Pet
         {
             while (!token.IsCancellationRequested)
             {
-                await Task.Delay(1000);
+                await Task.Delay(5000);
 
                 foreach (petStat stat in Enum.GetValues(typeof(petStat)))
                 {

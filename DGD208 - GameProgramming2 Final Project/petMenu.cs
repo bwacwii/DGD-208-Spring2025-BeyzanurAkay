@@ -49,7 +49,7 @@ public class Game
             case "1":
                 if (playerPets.Count >= maxPets)
                 {
-                    Console.WriteLine("\n⚠️ You already have the maximum number of pets (3). Please take care of them first!");
+                    Console.WriteLine("\n You already have the maximum number of pets (3). Please take care of them first!");
                 }
                 else
                 {
@@ -89,7 +89,7 @@ public class Game
 
             case "4":
                 Console.Clear();
-                Console.WriteLine("👩‍🎓 Beyzanur Akay - 225040069 feat AI, Dear ChatGPT!");
+                Console.WriteLine("Beyzanur Akay - 225040069 feat AI, Dear ChatGPT!");
                 break;
 
             case "5":
