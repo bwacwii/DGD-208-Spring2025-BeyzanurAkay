@@ -76,10 +76,8 @@ public class Pet
         statDecayTokenSource?.Cancel();
 
         Console.ForegroundColor = ConsoleColor.Red;
-        Console.WriteLine($"\n Your pet {Name} has died because their {stat} dropped to zero! You don't seem responsible enough to adopt an animal. Please don't adopt again. ");
+        Console.WriteLine($"\n Your pet {Name} has died because their {stat} dropped to zero!");
         Console.ResetColor();
-        Environment.Exit(0); 
-
     }
 
     private async void startStatDecay()
@@ -91,8 +89,7 @@ public class Pet
         {
             while (!token.IsCancellationRequested)
             {
-                await Task.Delay(5000);
-
+                await Task.Delay(5000); // Stat düşüşü 5 saniyede bir
                 foreach (petStat stat in Enum.GetValues(typeof(petStat)))
                 {
                     adjustStat(stat, -1, true);
@@ -101,7 +98,7 @@ public class Pet
         }
         catch (TaskCanceledException)
         {
-       
+            // Stat decay iptal edildiğinde buraya düşer, işlem gerekmez
         }
     }
 
@@ -122,7 +119,6 @@ public class Pet
         }
     }
 
-   
     internal object getStat(petStat stat)
     {
         throw new NotImplementedException();

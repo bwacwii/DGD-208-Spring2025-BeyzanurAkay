@@ -1,5 +1,4 @@
-﻿
-public static class PetManager
+﻿public static class PetManager
 {
     public static Pet adoptPet()
     {

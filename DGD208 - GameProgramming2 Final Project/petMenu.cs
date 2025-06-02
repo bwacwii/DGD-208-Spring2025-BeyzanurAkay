@@ -33,7 +33,7 @@ public class Game
         Console.WriteLine("Please choose an option:");
         Console.WriteLine("1. Adopt a Pet");
         Console.WriteLine("2. Check Your Pets");
-        Console.WriteLine("3. Play with Your Pets"); 
+        Console.WriteLine("3. Play with Your Pets");
         Console.WriteLine("4. Credits");
         Console.WriteLine("5. Exit");
         Console.Write("Enter your choice: ");
@@ -57,6 +57,17 @@ public class Game
                     if (newPet != null)
                     {
                         playerPets.Add(newPet);
+                        newPet.petDied += (sender, e) =>
+                        {
+                            var pet = (Pet)sender;
+                            if (playerPets.Contains(pet))
+                            {
+                                playerPets.Remove(pet);
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"\n{pet.Name} has been removed from your pet list because they died.");
+                                Console.ResetColor();
+                            }
+                        };
                     }
                 }
                 break;
@@ -89,7 +100,7 @@ public class Game
 
             case "4":
                 Console.Clear();
-                Console.WriteLine("Beyzanur Akay - 225040069 feat AI, Dear ChatGPT!");
+                Console.WriteLine("Beyzanur Akay - Feat AI!");
                 break;
 
             case "5":

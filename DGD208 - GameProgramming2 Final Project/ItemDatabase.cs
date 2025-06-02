@@ -8,7 +8,7 @@
             type = itemType.Food,
             compatibleWith = new List<petType> { petType.Otter, petType.OrangeCat },
             affectedStat = petStat.Hunger,
-            effectAmount = 10,
+            effectAmount = 25,
             duration = 2.5f
         },
         new Item {
@@ -16,8 +16,8 @@
             type = itemType.Food,
             compatibleWith = new List<petType> { petType.Otter },
             affectedStat = petStat.Hunger,
-            effectAmount = 18,
-            duration = 1.5f //quick treat
+            effectAmount = 15,
+            duration = 1.5f 
         },
         new Item {
             name = "River Snack",
@@ -25,7 +25,7 @@
             compatibleWith = new List<petType> { petType.Otter },
             affectedStat = petStat.Hunger,
             effectAmount = 30,
-            duration = 4.0f
+            duration = 3.0f
         },
         new Item {
             name = "Shell Pillow",
@@ -33,7 +33,7 @@
             compatibleWith = new List<petType> { petType.Otter },
             affectedStat = petStat.Sleep,
             effectAmount = 20,
-            duration = 3.0f
+            duration = 2.0f
         },
         new Item {
             name = "Water Hammock",
@@ -41,15 +41,15 @@
             compatibleWith = new List<petType> { petType.Otter },
             affectedStat = petStat.Sleep,
             effectAmount = 30,
-            duration = 2.0f
+            duration = 3.0f
         },
         new Item {
             name = "Floating Toy",
             type = itemType.Toy,
             compatibleWith = new List<petType> { petType.Otter, petType.Capybara },
             affectedStat = petStat.Fun,
-            effectAmount = 30,
-            duration = 1.5f
+            effectAmount = 20,
+            duration = 2.0f
         },
         new Item {
             name = "River Pebbles",
@@ -57,7 +57,7 @@
             compatibleWith = new List<petType> { petType.Otter },
             affectedStat = petStat.Fun,
             effectAmount = 20,
-            duration = 1.5f
+            duration = 2.0f
         },
 
         // Cat Items
@@ -75,7 +75,7 @@
             compatibleWith = new List<petType> { petType.OrangeCat },
             affectedStat = petStat.Hunger,
             effectAmount = 30,
-            duration = 4.0f
+            duration = 3.0f
         },
         new Item {
             name = "Milk Bowl",
@@ -91,7 +91,7 @@
             compatibleWith = new List<petType> { petType.OrangeCat },
             affectedStat = petStat.Sleep,
             effectAmount = 30,
-            duration = 2.5f
+            duration = 3.0f
         },
         new Item {
             name = "Radiator Bed",
@@ -107,14 +107,14 @@
             compatibleWith = new List<petType> { petType.OrangeCat },
             affectedStat = petStat.Fun,
             effectAmount = 30,
-            duration = 2.5f
+            duration = 3.0f
         },
         new Item {
             name = "Yarn Ball",
             type = itemType.Toy,
             compatibleWith = new List<petType> { petType.OrangeCat },
             affectedStat = petStat.Fun,
-            effectAmount = 20,
+            effectAmount = 15,
             duration = 1.5f
         },
 
@@ -122,7 +122,7 @@
         new Item {
             name = "Leafy Greens",
             type = itemType.Food,
-            compatibleWith = new List<petType> { petType.Capybara, petType.AloneNugget },
+            compatibleWith = new List<petType> { petType.Capybara },
             affectedStat = petStat.Hunger,
             effectAmount = 15,
             duration = 1.5f
@@ -157,7 +157,7 @@
             compatibleWith = new List<petType> { petType.Capybara },
             affectedStat = petStat.Sleep,
             effectAmount = 30,
-            duration = 3.5f
+            duration = 3.0f
         },
         new Item {
             name = "Bamboo Stick",
@@ -173,32 +173,26 @@
             compatibleWith = new List<petType> { petType.Capybara },
             affectedStat = petStat.Fun,
             effectAmount = 25,
-            duration = 2.0f
+            duration = 2.5f
         },
 
         // Nugget Items
         new Item {
-            name = "Mystery Meat",
+            name = "Nugget's Favorite Mystery Snack",
             type = itemType.Food,
             compatibleWith = new List<petType> { petType.AloneNugget },
             affectedStat = petStat.Hunger,
-            effectAmount = 40,
+            effectAmount = 50,
             duration = 5.0f
         },
-        new Item {
-            name = "Bone Broth",
-            type = itemType.Food,
-            compatibleWith = new List<petType> { petType.AloneNugget },
-            affectedStat = petStat.Hunger,
-            effectAmount = 30,
-            duration = 3.0f
-        },
+
+       
         new Item {
             name = "Ketchup",
             type = itemType.Food,
             compatibleWith = new List<petType> { petType.AloneNugget },
             affectedStat = petStat.Hunger,
-            effectAmount = 26,
+            effectAmount = 25,
             duration = 2.5f
         },
         new Item {
@@ -207,7 +201,7 @@
             compatibleWith = new List<petType> { petType.AloneNugget },
             affectedStat = petStat.Sleep,
             effectAmount = 30,
-            duration = 4.0f
+            duration = 3.0f
         },
         new Item {
             name = "Small nugget to cuddle",
@@ -215,7 +209,7 @@
             compatibleWith = new List<petType> { petType.AloneNugget },
             affectedStat = petStat.Sleep,
             effectAmount = 40,
-            duration = 5.0f
+            duration = 4.0f
         },
         new Item {
             name = "Small nugget textured stone",
@@ -223,7 +217,7 @@
             compatibleWith = new List<petType> { petType.AloneNugget, petType.Otter },
             affectedStat = petStat.Fun,
             effectAmount = 30,
-            duration = 2.0f
+            duration = 3.0f
         },
         new Item {
             name = "A packet of sauce for dipping",
